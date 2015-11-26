@@ -1,5 +1,5 @@
 {
-    "name":            "@rkb/popsicle-patch-bc-response",
+    "name":            "popsicle-patch-bc-response",
     "version":         "0.0.1",
     "description":     "Patch responses from Business Catalyst to have useful HTTP status codes",
     "main":            "index.js",
