@@ -1,11 +1,11 @@
 {
     "name":            "popsicle-patch-bc-response",
-    "version":         "0.0.1",
+    "version":         "0.0.2",
     "description":     "Patch responses from Business Catalyst to have useful HTTP status codes",
     "main":            "index.js",
     "repository":      {
         "type": "git",
-        "url":  "https://github.com/r-k-b/popsicle-patch-bc-response"
+        "url":  "git@github.com:r-k-b/popsicle-patch-bc-response.git"
     },
     "dependencies":    {
         "ramda": "0.18.0"
