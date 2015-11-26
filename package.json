@@ -1,0 +1,25 @@
+{
+    "name":            "@rkb/popsicle-patch-bc-response",
+    "version":         "0.0.1",
+    "description":     "Patch responses from Business Catalyst to have useful HTTP status codes",
+    "main":            "index.js",
+    "repository":      {
+        "type": "git",
+        "url":  "https://github.com/InsurrectionistIllness/popsicle-patch-bc-response"
+    },
+    "dependencies":    {
+        "ramda": "^0.18.0"
+    },
+    "devDependencies": {
+        "tape": "^4.2.2"
+    },
+    "scripts":         {
+        "test": "node spec/test-index.js"
+    },
+    "author":          {
+        "name":  "Robert K. Bell",
+        "email": "robert.k.bell@gmail.com",
+        "url":   "https://about.me/robert.k.bell"
+    },
+    "license":         "AGPL-3.0"
+}
